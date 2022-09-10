@@ -26,7 +26,6 @@ You should be particularly careful when choosing the location of the wall. It’
 humans can swim over the city, find the more bountiful half, and overtake it from the direction that
 minimizes the amount of food your people collect in the long run. That is, the humans will attack
 in a way that minimizes the amount of food your people collect (after you’ve chosen a location for
-Programming Assignment #3: May 4, 2022, 11:59pm 2
 the wall) in the CURRENT AND ALL FUTURE DAYS.
 Figure 1: If the humans attack from the west, sections 5 and 6 will remain under your control and
 the total food for the current day will be p5 +p6. If humans attack from the east, sections 1,2,3 and
